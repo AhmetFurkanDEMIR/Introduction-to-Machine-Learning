@@ -39,3 +39,5 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 
 
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Eğitmek: Test - Train
+
+* Elimzideki veri setinin bir kısmını modeli eğitirken kullanırız diğer kısmını ise eğitilen modeli test ederken kullanırız.
