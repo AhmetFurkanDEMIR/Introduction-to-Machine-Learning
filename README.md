@@ -72,4 +72,6 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 * Sınıflandırma için doğru sınıflandırma oranı türevi bir değer
 
 
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aşırı Öğrenme (Overfitting)
 
+* Algoritmanın veri setini ezberlemesi, yeni veriler üzerinden tahmin yapılmak istendiğinde modelin başarısız olması.
