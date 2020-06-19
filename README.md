@@ -1,5 +1,7 @@
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Makine Öğrenmesi Nedir ?
 
+![Makine-Öğrenmesi-Nedir-Ne-İşe-Yarar-Rehber](https://user-images.githubusercontent.com/54184905/85115651-b1379c80-b224-11ea-82d4-305cd13cb08f.jpg)
+
 Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gibi veri türlerine dayalı öğrenimini olanaklı kılan algoritmaların tasarım ve geliştirme süreçlerini konu edinen bir bilim dalıdır. Makine öğrenimi araştırmalarının odaklandığı konu bilgisayarlara karmaşık örüntüleri algılama ve veriye dayalı akılcı kararlar verebilme becerisi kazandırmaktır. Bu, makine öğreniminin istatistik, olasılık kuramı, veri madenciliği, örüntü tanıma, yapay zekâ, uyarlamalı denetim ve kuramsal bilgisayar bilimi gibi alanlarla yakından ilintili olduğunu göstermektedir.
 
 * Uygulamaları : Makine öğreniminin başlıca uygulamaları makine algılaması, bilgisayarlı görme, doğal dil işleme, sözdizimsel örüntü tanıma, arama motorları, tıbbi tanı, biyoinformatik, beyin-makine arayüzleri ve kiminformatik, kredi kartı dolandırıcılığı denetimi, borsa çözümlemesi, DNA dizilerinin sınıflandırılması, konuşma ve elyazısı tanıma, bilgisayarlı görmede nesne tanıma, oyun oynama, yazılım mühendisliği, uyarlamalı web siteleri ve robot gezisidir. 
@@ -41,3 +43,7 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Eğitmek: Test - Train
 
 * Elimzideki veri setinin bir kısmını modeli eğitirken kullanırız diğer kısmını ise eğitilen modeli test ederken kullanırız.
+
+![Screenshot_2020-06-19_12-00-26](https://user-images.githubusercontent.com/54184905/85115581-906f4700-b224-11ea-870d-79f0492e43e3.png)
+
+
