@@ -175,6 +175,9 @@ En sonayrılan test veri setiyle model test edilir.
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Bootstrap
 
+![Screenshot_2020-06-19_14-22-41](https://user-images.githubusercontent.com/54184905/85127602-6c1d6580-b238-11ea-895d-5a4928a66454.png)
 
+* Yeniden örnek oluşturacak şekilde çalışır, orjinal veri seti içersinden seçilen örneklerle bootstrap örnekler oluşturulur.
+x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şekilde veri seti içerisinden veri türetmek şeklinde kullanılır. 
 
 
