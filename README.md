@@ -187,7 +187,7 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 * Modelin tahmin başarısının değerlendirilmesi. Ortalama hata hesaplamaya çalışılır.
 
 
-## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yöntemler
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Regresyon Modelleri İçin Başarı Değerlendirme
 
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) MSE (Hata Kareleri Ortalaması)
@@ -205,7 +205,16 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) RMSE (Hata Kareleri Ortalaması Karekökü)
 
+![Screenshot_2020-06-19_14-34-18](https://user-images.githubusercontent.com/54184905/85128566-3c6f5d00-b23a-11ea-941f-19f860fb1b22.png)
 
+* n = Gözlem sayısı
+* yi = Gerçek değerler (Etiket)
+* y' = Tahmin edilen değerler
+
+* MSE 'nin karekökü alınmış hali
+* Bir ev fiyatlandırma problemi düşünelim, model evi 150000 tl olarak tahmin etti ama evin gerçek değeri 151000 tl.
+
+√((151000 - 150000)² / örnek sayısı) olarak düşünebiliriz.
 
 
 
