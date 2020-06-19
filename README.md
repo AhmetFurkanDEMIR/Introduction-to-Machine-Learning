@@ -13,6 +13,10 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
     Pekiştirmeli öğrenme - Dünya algısına dayalı bir öğrenme biçimi. Her eylem ortamda bir etki oluşturmakta ve ortam, öğrenme
     algoritmasına yol gösteren ödüller biçiminde dönütler vermektedir.
     
-    Yarı gözetimli öğrenme - Uygun işlev ya da sınıflandırıcılar oluşturmak için etiketli ve etiketsiz örnekleri birlikte ele alır.
-    Öğrenmeyi öğrenme - Önceki deneyimlerden yararlanır.
+    Yarı gözetimli öğrenme - Uygun işlev ya da sınıflandırıcılar oluşturmak için etiketli ve etiketsiz örnekleri birlikte ele
+    alır.
+    
+
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Bağımlı Değişken - Bağımsız Değişken
+
 
