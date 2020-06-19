@@ -247,6 +247,20 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) ROC Eğrisi
 
+![Screenshot_2020-06-19_14-52-18](https://user-images.githubusercontent.com/54184905/85129873-8d805080-b23c-11ea-8b18-5bf8e7054364.png)
+
+* AUC (Area Under Curuve - Eğri Altındaki Alan) : Bu alan büyük olursa model başarılı olmuş demektir. Alan küçük ise model başarısız olmuş demektir.
+* Ortadaki kesikli çizgi hiç bir modeli kullanmasaydık elde edeceğimiz başarı oranı.
+
+
+# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Yalınlık - Varyans Değiş Tokuşu (Bias - Variance Tradeoff)
+
+
+* Modelin tahmin başarısının değerlendirilmesi
+
+* Eğitim hatası -> modeli kurmak için kullandığımız veri seti üzerinden elde ettiğimiz hata.
+* Test hatası -> kurulan modeli test etmek için kullandığımız veri seti için oluşan hatadır.
+
 
 
 
