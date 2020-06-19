@@ -30,13 +30,20 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 
 En sık kullanılan kategoridir. Bir veri seti üzerindeki girdilerden bilinen çıktılara olan eşleştirmeyi öğrenmeyi kapsar.
 Her ne kadar Denetimli öğrenme temelde sınıflandırma ve bağlanım barındırsa da daha ilginç biçimleride bulunmaktadır.
+Bağımlı değişken ve bağımlı değişkeni meydana getiren bağımsız değişkenler bir aradaysa, bu duruma gözetimli öğrenme denir.(Etiket-Veri)
 
 1-) Dizi oluşturma : Verilen bir resimden başlığını tanımlamak. Dizi oluşturma genellikle arka arkaya sınıflandırma problemi olarak formüle edilmektedir.
 
 2-) Sözdizimi ağacı tahmini : Verilen bir cümleden sözdizimi ağacını çözümlemek.
 
-3-) Nesne Tespiti : Verilen bir resimden resim içindeki nesneleri çerçeve içine almak. Bu da 
+3-) Nesne Tespiti : Verilen bir resimden resim içindeki nesneleri çerçeve içine almak. Bu da aslında sınıflandırma problemi olarak ya da çerçevelerin kordinatlarının vektör bağlanımı ile tahmin edildiği sınıflandırma ve bağlanım problemlerinin birleşimi olarak görülebilir.
 
+4-) Resim Bölütleme : Verilen bir resimde nesneye özel görüntü noktası seviyesinde maske oluşturmak.
+
+* ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimsiz Öğrenme :
+
+Makine öğrenmesinin bu kategorisinin amacı veriyi görselleştirmek, verileri sıkıştırmak, verilerdeki gürültüyü azaltmak ya da eldeki veriler arasındaki korelasyonu anlamak için girdilerden herhangi bir bilinen olmaksızın amaca uygun dönüşümleri bulmaktır.
+Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüdür.(Veri var, Etiket yok) Birbirlerine benzer özellikler ile bir araya getirilir.
 
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Temel Kavramlar
 
@@ -46,13 +53,6 @@ Her ne kadar Denetimli öğrenme temelde sınıflandırma ve bağlanım barınd�
 * Bağımlı Değişken : Makine öğrenmesi probleminde tahmin etmek için hedeflediğimiz ana değişkendir(Etiket).
 
 * Bağımsız Değişken : Bağımlı değişkenlerin belirlenmesinde öncü olur. KM, Hasar durumu, Marka, Model gibi.
-
-
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Gözetimli - Gözetimsiz Öğrenme
-
-* Gözetimli Öğrenme : Bağımlı değişken ve bağımlı değişkeni meydana getiren bağımsız değişkenler bir aradaysa, bu duruma gözetimli öğrenme denir.(Etiket-Veri)
-
-* Gözetimsiz Öğrenme : Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüdür.(Veri var, Etiket yok) Birbirlerine benzer özellikler ile bir araya getirilir.
 
 
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Regresyon - Sınıflandırma
