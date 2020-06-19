@@ -44,10 +44,14 @@ Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüd�
 
 Denetimli öğrenmenin özel bir örneğidir ama kendi özel kategorisini hak etmektedir. Yarı-Denetimli öğrenme, Denetimli öğrenmenin etkili verilerinin olmadığı halidir. Denetimli öğrenmenin insanın olmadığı döngüsü olarak düşünebilirsiniz. Hayla etiketleri vardır ama bunlar girdilerden keşifsel olarak oluşturulur. Örneğin : Otokodlayıcılar(autoencoder) yarı denetimli öğrenmenin çok bilinen bir örneğidir, hedef girdilerden öğrenilmektedir.
 
+![0*uq2_ZipB9TqI9G_k](https://user-images.githubusercontent.com/54184905/85122369-198b7b80-b22f-11ea-847a-f36051d9d3eb.png)
+
 
 * ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Pekiştirmeli Öğrenme :
 
 Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google DeepMind tarafından geliştirilen ve ateri oyunları(En son GO oyununda en üst seviye oyuncuları yenebilmiştir.) oynamayı öğrenmesi ile yeniden dikkatleri üzerine çekebilmiştir. Pekiştirmeli öğrenmede bir ajan çerçevesi ile ilgili bir bilgi alır ve ödülünü arttırmak için bir hareket seçer. Örneğin bir sinir ağı, bilgisayar oyununun ekranına bakarak ve skorunu artıracak hareketi seçebilmek için pekiştirmeli öğrenme ile eğitilebilir.
+
+![440px-Pekistirmeli-ogrenme-diyagram svg](https://user-images.githubusercontent.com/54184905/85122373-1abca880-b22f-11ea-8aa2-6e3e1a02df39.png)
 
 
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Temel Kavramlar
