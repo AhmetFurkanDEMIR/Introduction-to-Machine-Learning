@@ -15,24 +15,24 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Makine Öğrenmesinin Dört Kategorisi
 
 
-* ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimli Öğrenme :
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimli Öğrenme :
 
 En sık kullanılan kategoridir. Bir veri seti üzerindeki girdilerden bilinen çıktılara olan eşleştirmeyi öğrenmeyi kapsar.
 Her ne kadar Denetimli öğrenme temelde sınıflandırma ve bağlanım barındırsa da daha ilginç biçimleride bulunmaktadır.
 Bağımlı değişken ve bağımlı değişkeni meydana getiren bağımsız değişkenler bir aradaysa, bu duruma gözetimli öğrenme denir.(Etiket-Veri)
 
-1-) Dizi oluşturma : Verilen bir resimden başlığını tanımlamak. Dizi oluşturma genellikle arka arkaya sınıflandırma problemi olarak formüle edilmektedir.
+* Dizi oluşturma : Verilen bir resimden başlığını tanımlamak. Dizi oluşturma genellikle arka arkaya sınıflandırma problemi olarak formüle edilmektedir.
 
-2-) Sözdizimi ağacı tahmini : Verilen bir cümleden sözdizimi ağacını çözümlemek.
+* Sözdizimi ağacı tahmini : Verilen bir cümleden sözdizimi ağacını çözümlemek.
 
-3-) Nesne Tespiti : Verilen bir resimden resim içindeki nesneleri çerçeve içine almak. Bu da aslında sınıflandırma problemi olarak ya da çerçevelerin kordinatlarının vektör bağlanımı ile tahmin edildiği sınıflandırma ve bağlanım problemlerinin birleşimi olarak görülebilir.
+* Nesne Tespiti : Verilen bir resimden resim içindeki nesneleri çerçeve içine almak. Bu da aslında sınıflandırma problemi olarak ya da çerçevelerin kordinatlarının vektör bağlanımı ile tahmin edildiği sınıflandırma ve bağlanım problemlerinin birleşimi olarak görülebilir.
 
 ![Object_detection_Blog_Image_Q3_19](https://user-images.githubusercontent.com/54184905/85119756-eb0ba180-b22a-11ea-88a3-40d8b1b0ce43.jpg)
 
-4-) Resim Bölütleme : Verilen bir resimde nesneye özel görüntü noktası seviyesinde maske oluşturmak.
+* Resim Bölütleme : Verilen bir resimde nesneye özel görüntü noktası seviyesinde maske oluşturmak.
 
 
-* ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimsiz Öğrenme :
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimsiz Öğrenme :
 
 Makine öğrenmesinin bu kategorisinin amacı veriyi görselleştirmek, verileri sıkıştırmak, verilerdeki gürültüyü azaltmak ya da eldeki veriler arasındaki korelasyonu anlamak için girdilerden herhangi bir bilinen olmaksızın amaca uygun dönüşümleri bulmaktır.
 Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüdür.(Veri var, Etiket yok) Birbirlerine benzer özellikler ile bir araya getirilir.
@@ -40,14 +40,14 @@ Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüd�
 ![clustering1](https://user-images.githubusercontent.com/54184905/85119762-ee069200-b22a-11ea-936b-6406c483b46e.jpg)
 
 
-* ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yarı Denetimli Öğrenme :
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yarı Denetimli Öğrenme :
 
 Denetimli öğrenmenin özel bir örneğidir ama kendi özel kategorisini hak etmektedir. Yarı-Denetimli öğrenme, Denetimli öğrenmenin etkili verilerinin olmadığı halidir. Denetimli öğrenmenin insanın olmadığı döngüsü olarak düşünebilirsiniz. Hayla etiketleri vardır ama bunlar girdilerden keşifsel olarak oluşturulur. Örneğin : Otokodlayıcılar(autoencoder) yarı denetimli öğrenmenin çok bilinen bir örneğidir, hedef girdilerden öğrenilmektedir.
 
 ![0*uq2_ZipB9TqI9G_k](https://user-images.githubusercontent.com/54184905/85122369-198b7b80-b22f-11ea-847a-f36051d9d3eb.png)
 
 
-* ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Pekiştirmeli Öğrenme :
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Pekiştirmeli Öğrenme :
 
 Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google DeepMind tarafından geliştirilen ve ateri oyunları(En son GO oyununda en üst seviye oyuncuları yenebilmiştir.) oynamayı öğrenmesi ile yeniden dikkatleri üzerine çekebilmiştir. Pekiştirmeli öğrenmede bir ajan çerçevesi ile ilgili bir bilgi alır ve ödülünü arttırmak için bir hareket seçer. Örneğin bir sinir ağı, bilgisayar oyununun ekranına bakarak ve skorunu artıracak hareketi seçebilmek için pekiştirmeli öğrenme ile eğitilebilir.
 
