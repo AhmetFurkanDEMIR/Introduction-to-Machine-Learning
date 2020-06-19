@@ -23,6 +23,21 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 ![0*NgXCHXv1L4xm7e_L](https://user-images.githubusercontent.com/54184905/85115787-e80db280-b224-11ea-8896-bcd4aea62e56.png)
 
 
+
+# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Makine Öğrenmesinin Dört Kategorisi
+
+* ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimli Öğrenme :
+
+En sık kullanılan kategoridir. Bir veri seti üzerindeki girdilerden bilinen çıktılara olan eşleştirmeyi öğrenmeyi kapsar.
+Her ne kadar Denetimli öğrenme temelde sınıflandırma ve bağlanım barındırsa da daha ilginç biçimleride bulunmaktadır.
+
+1-) Dizi oluşturma : Verilen bir resimden başlığını tanımlamak. Dizi oluşturma genellikle arka arkaya sınıflandırma problemi olarak formüle edilmektedir.
+
+2-) Sözdizimi ağacı tahmini : Verilen bir cümleden sözdizimi ağacını çözümlemek.
+
+3-) Nesne Tespiti : Verilen bir resimden resim içindeki nesneleri çerçeve içine almak. Bu da 
+
+
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Temel Kavramlar
 
 
