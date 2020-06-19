@@ -14,7 +14,7 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Makine Öğrenmesinin Dört Kategorisi
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimli Öğrenme :
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimli Öğrenme :
 
 En sık kullanılan kategoridir. Bir veri seti üzerindeki girdilerden bilinen çıktılara olan eşleştirmeyi öğrenmeyi kapsar.
 Her ne kadar Denetimli öğrenme temelde sınıflandırma ve bağlanım barındırsa da daha ilginç biçimleride bulunmaktadır.
@@ -31,7 +31,7 @@ Bağımlı değişken ve bağımlı değişkeni meydana getiren bağımsız değ
 * Resim Bölütleme : Verilen bir resimde nesneye özel görüntü noktası seviyesinde maske oluşturmak.
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimsiz Öğrenme :
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimsiz Öğrenme :
 
 Makine öğrenmesinin bu kategorisinin amacı veriyi görselleştirmek, verileri sıkıştırmak, verilerdeki gürültüyü azaltmak ya da eldeki veriler arasındaki korelasyonu anlamak için girdilerden herhangi bir bilinen olmaksızın amaca uygun dönüşümleri bulmaktır.
 Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüdür.(Veri var, Etiket yok) Birbirlerine benzer özellikler ile bir araya getirilir.
@@ -39,14 +39,14 @@ Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüd�
 ![clustering1](https://user-images.githubusercontent.com/54184905/85119762-ee069200-b22a-11ea-936b-6406c483b46e.jpg)
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yarı Denetimli Öğrenme :
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yarı Denetimli Öğrenme :
 
 Denetimli öğrenmenin özel bir örneğidir ama kendi özel kategorisini hak etmektedir. Yarı-Denetimli öğrenme, Denetimli öğrenmenin etkili verilerinin olmadığı halidir. Denetimli öğrenmenin insanın olmadığı döngüsü olarak düşünebilirsiniz. Hayla etiketleri vardır ama bunlar girdilerden keşifsel olarak oluşturulur. Örneğin : Otokodlayıcılar(autoencoder) yarı denetimli öğrenmenin çok bilinen bir örneğidir, hedef girdilerden öğrenilmektedir.
 
 ![0*uq2_ZipB9TqI9G_k](https://user-images.githubusercontent.com/54184905/85122369-198b7b80-b22f-11ea-847a-f36051d9d3eb.png)
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Pekiştirmeli Öğrenme :
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Pekiştirmeli Öğrenme :
 
 Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google DeepMind tarafından geliştirilen ve ateri oyunları(En son GO oyununda en üst seviye oyuncuları yenebilmiştir.) oynamayı öğrenmesi ile yeniden dikkatleri üzerine çekebilmiştir. Pekiştirmeli öğrenmede bir ajan çerçevesi ile ilgili bir bilgi alır ve ödülünü arttırmak için bir hareket seçer. Örneğin bir sinir ağı, bilgisayar oyununun ekranına bakarak ve skorunu artıracak hareketi seçebilmek için pekiştirmeli öğrenme ile eğitilebilir.
 
@@ -58,28 +58,28 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 * Bu başlık altında ise Makine Öğrenmesi için gerekli olan temel kavramları göreceğiz.
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Bağımlı Değişken - Bağımsız Değişken
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Bağımlı Değişken - Bağımsız Değişken
 
 * Bağımlı Değişken : Makine öğrenmesi probleminde tahmin etmek için hedeflediğimiz ana değişkendir(Etiket).
 
 * Bağımsız Değişken : Bağımlı değişkenlerin belirlenmesinde öncü olur. KM, Hasar durumu, Marka, Model gibi.
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Regresyon - Sınıflandırma
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Regresyon - Sınıflandırma
 
 * Regresyon : Bağımlı değişken, sayısal/sürekli bir değişken ise bu bir regresyon problemidir.(Ev tahmin problemi(Ev fiyati 150000 TL))
 
 * Sınıflandırma Problemi : Bağımlı değişken kategorik bir değiken ise bu bir sınıflandırma problemidir.(Hastanın yaşayıp yaşayamaması(0,1)) 
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Değişken Seçimi (Variable Selection)
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Değişken Seçimi (Variable Selection)
 
 ![Screenshot_2020-06-19_12-05-00](https://user-images.githubusercontent.com/54184905/85115962-3a4ed380-b225-11ea-8d1c-8fc203d77c2a.png)
 
 * Amaç : En az değişkenle en fazla açıklanabilirliği yakalamak
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Makine Öğrenme Modellerinin Değerlendirilmesi (Test-Train)
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Makine Öğrenme Modellerinin Değerlendirilmesi (Test-Train)
 
 * Makine öğrenmesinde amaç, modellerin GENELLEŞTİRMESİDİR. Hiç görmediği verilerde başarılı olmalıdır. Önündeki en büyük engel de aşırı uydurmadır.
 
@@ -88,7 +88,7 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 ![Screenshot_2020-06-19_12-00-26](https://user-images.githubusercontent.com/54184905/85115581-906f4700-b224-11ea-870d-79f0492e43e3.png)
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Seçimi
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Seçimi
 
 ![1*ioZ200iYyX-QJfOLs17gow](https://user-images.githubusercontent.com/54184905/85116427-fd371100-b225-11ea-9a5f-ba867a9babf3.jpeg)
 
@@ -101,14 +101,14 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 * Sınıflandırma için doğru sınıflandırma oranı türevi bir değer
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aşırı Öğrenme (Overfitting)
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aşırı Öğrenme (Overfitting)
 
 * Algoritmanın veri setini ezberlemesi, yeni veriler üzerinden tahmin yapılmak istendiğinde modelin başarısız olması.
 
 ![Overfitted_Data](https://user-images.githubusercontent.com/54184905/85117779-10e37700-b228-11ea-8fcd-a6f5c86261a6.png)
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Deterministik - Stokastik Modeller
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Deterministik - Stokastik Modeller
 
 * Deterministik modeller : Değişken arasında kesin bir ilişki olduğu varsayılan modeller.
 
@@ -119,7 +119,7 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 ![Screenshot_2020-06-19_13-30-49](https://user-images.githubusercontent.com/54184905/85123703-66705180-b231-11ea-92f0-3f9402d1f0dc.png)
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Doğrusal Modeller - Doğrusal Olmayan Modeller
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Doğrusal Modeller - Doğrusal Olmayan Modeller
 
 * Doğrusal modeller : Doğru ile ifade edilebilmeli.
 
@@ -130,7 +130,7 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 ![Screenshot_2020-06-19_13-35-21](https://user-images.githubusercontent.com/54184905/85124167-1fcf2700-b232-11ea-9fa6-9c9739a716c9.png)
 
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Makine Öğrenmesi - Matematik - İstatistik - Olasılık
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Makine Öğrenmesi - Matematik - İstatistik - Olasılık
 
 * Makine öğrenmesi, matematikten istatistiğe geçiş ve matematik istatistik optimizasyon arasında bir yerde konumlanmaktadır.
 
@@ -140,3 +140,12 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 
 
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Model Doğrulama Yöntemleri (Model Validation)
+
+* Modellerin ürettiği sonuçların doğru değerlendirilmesi çalışmaları.
+
+* Model kurmak : Bağımlı değişken ile bağımsız değişkenler arasındaki ilişkiyi modellemek demektir.
+
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yöntemler
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Holdout Yöntemi (Sınama Testi)
