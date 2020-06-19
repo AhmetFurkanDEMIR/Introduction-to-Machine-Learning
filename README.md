@@ -111,4 +111,10 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Deterministik - Stokastik Modeller
 
-* Deterministik modeller : Değişken arasında kesin bir ilişki plduğu varsayılan modeller.
+* Deterministik modeller : Değişken arasında kesin bir ilişki olduğu varsayılan modeller.
+
+![det](https://user-images.githubusercontent.com/54184905/85123705-6708e800-b231-11ea-9729-6bc5a360b5f2.png)
+
+* Stokastik Modeller : Olasılıksal modeller bizim kullanacağımız modeller.
+
+![Screenshot_2020-06-19_13-30-49](https://user-images.githubusercontent.com/54184905/85123703-66705180-b231-11ea-92f0-3f9402d1f0dc.png)
