@@ -124,5 +124,13 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 
 * Doğrusal modeller : Doğru ile ifade edilebilmeli.
 
+![dog](https://user-images.githubusercontent.com/54184905/85124170-2067bd80-b232-11ea-8074-882867705060.png)
+
 * Doğrusal olmayan modeller : Eğri aracılığıyla, ağaca dayalı yöntemler veya yöntemler ile değişkenler arasındaki ilişkilerin modellenmeye çalışmak. 
+
+![Screenshot_2020-06-19_13-35-21](https://user-images.githubusercontent.com/54184905/85124167-1fcf2700-b232-11ea-9fa6-9c9739a716c9.png)
+
+
+
+
 
