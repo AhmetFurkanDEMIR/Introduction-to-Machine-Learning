@@ -298,7 +298,17 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 
 * Parametre, Hiperparametre, Parametre tuning, Model tuning.
 * Modelin tahmin performansını artırmak.
+* Bütüncül bir kavramdır.
 
 
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Parametreleri
 
+![Screenshot_2020-06-19_15-17-36](https://user-images.githubusercontent.com/54184905/85131774-22387d80-b240-11ea-8728-c92f8a382d83.png)
+
+* Veriden Öğrenilen Parametreler(Ağırlıklar)
+* Burada b harfleri parametrelerimiz, x harfleri ise verilerimizdir, verilerimizin yönü eksi(-) olabilir. Mesela hata durumu fiyatın düşmesine sebep olur.
+
+
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Hiperparametreleri
+
+* Kullanıcı tarafından belirlenen ve veriler ile optimize edilen parametrelerdir. Verinin içinden elde edemeyeceğimiz parametreler, yani dışsal kullanıcı tarafından belirlenir.
