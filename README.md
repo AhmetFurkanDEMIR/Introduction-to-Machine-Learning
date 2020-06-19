@@ -47,6 +47,8 @@ Denetimli öğrenmenin özel bir örneğidir ama kendi özel kategorisini hak et
 
 * ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Pekiştirmeli Öğrenme :
 
+Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google DeepMind tarafından geliştirilen ve ateri oyunları(En son GO oyununda en üst seviye oyuncuları yenebilmiştir.) oynamayı öğrenmesi ile yeniden dikkatleri üzerine çekebilmiştir. Pekiştirmeli öğrenmede bir ajan çerçevesi ile ilgili bir bilgi alır ve ödülünü arttırmak için bir hareket seçer. Örneğin bir sinir ağı, bilgisayar oyununun ekranına bakarak ve skorunu artıracak hareketi seçebilmek için pekiştirmeli öğrenme ile eğitilebilir.
+
 
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Temel Kavramlar
 
