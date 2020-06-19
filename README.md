@@ -54,6 +54,14 @@ Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüd�
 ![clustering1](https://user-images.githubusercontent.com/54184905/85119762-ee069200-b22a-11ea-936b-6406c483b46e.jpg)
 
 
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Bağlanım (Regression) Yöntemleri
+
+* K - Ortalama, Bulanık, C - Ortalama
+* Gauss karışımı
+* Saklı markov modeli
+* Yapay sinir ağları
+
+
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yarı Denetimli Öğrenme :
 
 Denetimli öğrenmenin özel bir örneğidir ama kendi özel kategorisini hak etmektedir. Yarı-Denetimli öğrenme, Denetimli öğrenmenin etkili verilerinin olmadığı halidir. Denetimli öğrenmenin insanın olmadığı döngüsü olarak düşünebilirsiniz. Hayla etiketleri vardır ama bunlar girdilerden keşifsel olarak oluşturulur. Örneğin : Otokodlayıcılar(autoencoder) yarı denetimli öğrenmenin çok bilinen bir örneğidir, hedef girdilerden öğrenilmektedir.
