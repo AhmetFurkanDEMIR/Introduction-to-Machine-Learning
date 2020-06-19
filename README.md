@@ -198,8 +198,13 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 * yi = Gerçek değerler (Etiket)
 * y' = Tahmin edilen değerler
 
-* Yani bir ev fiyatlandırma problemi düşünelim, model evi 150000 tl olarak tahmin etti ama evin gerçek değeri 151000 tl.
+* Bir ev fiyatlandırma problemi düşünelim, model evi 150000 tl olarak tahmin etti ama evin gerçek değeri 151000 tl.
 ((151000 - 150000) * (151000 - 150000) / örnek sayısı) olarak düşünebiliriz.
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) RMSE (Hata Kareleri Ortalaması Karekökü)
+
+
 
 
 
