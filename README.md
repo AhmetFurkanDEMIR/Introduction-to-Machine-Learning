@@ -107,3 +107,8 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 * Algoritmanın veri setini ezberlemesi, yeni veriler üzerinden tahmin yapılmak istendiğinde modelin başarısız olması.
 
 ![Overfitted_Data](https://user-images.githubusercontent.com/54184905/85117779-10e37700-b228-11ea-8fcd-a6f5c86261a6.png)
+
+
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Deterministik - Stokastik Modeller
+
+* Deterministik modeller : Değişken arasında kesin bir ilişki plduğu varsayılan modeller.
