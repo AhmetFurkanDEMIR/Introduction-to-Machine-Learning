@@ -51,5 +51,8 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Değişken Seçimi (Variable Selection)
 
+![Screenshot_2020-06-19_12-05-00](https://user-images.githubusercontent.com/54184905/85115962-3a4ed380-b225-11ea-8d1c-8fc203d77c2a.png)
+
+* Amaç : En az değişkenle en fazla açıklanabilirliği yakalamak
 
 
