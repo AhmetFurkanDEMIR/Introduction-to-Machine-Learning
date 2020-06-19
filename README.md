@@ -18,6 +18,8 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
     Yarı gözetimli öğrenme - Uygun işlev ya da sınıflandırıcılar oluşturmak için etiketli ve etiketsiz örnekleri birlikte ele
     alır.
     
+![0*NgXCHXv1L4xm7e_L](https://user-images.githubusercontent.com/54184905/85115787-e80db280-b224-11ea-8896-bcd4aea62e56.png)
+
 
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Bağımlı Değişken - Bağımsız Değişken
 
