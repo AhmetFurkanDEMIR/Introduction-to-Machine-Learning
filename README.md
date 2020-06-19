@@ -312,3 +312,11 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Hiperparametreleri
 
 * Kullanıcı tarafından belirlenen ve veriler ile optimize edilen parametrelerdir. Verinin içinden elde edemeyeceğimiz parametreler, yani dışsal kullanıcı tarafından belirlenir.
+
+
+
+# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Kaynaklar
+
+* https://www.udemy.com/course/python-ile-makine-ogrenmesi/
+* https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438
+* https://tr.wikipedia.org/wiki/Makine_%C3%B6%C4%9Frenimi
