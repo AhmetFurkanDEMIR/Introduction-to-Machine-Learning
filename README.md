@@ -192,6 +192,14 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) MSE (Hata Kareleri Ortalaması)
 
+![Screenshot_2020-06-19_14-29-42](https://user-images.githubusercontent.com/54184905/85128137-63795f00-b239-11ea-989f-d5f7a15b2104.png)
+
+* n = Gözlem sayısı
+* yi = Gerçek değerler (Etiket)
+* y' = Tahmin edilen değerler
+
+* Yani bir ev fiyatlandırma problemi düşünelim, model evi 150000 tl olarak tahmin etti ama evin gerçek değeri 151000 tl.
+((151000 - 150000) * (151000 - 150000) / örnek sayısı) olarak düşünebiliriz.
 
 
 
