@@ -165,5 +165,16 @@ En son ayrılan test verisiyle test ederiz.
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Leave One Out
 
+![Screenshot_2020-06-19_14-18-30](https://user-images.githubusercontent.com/54184905/85127302-d71a6c80-b237-11ea-9961-82ad4494f4e9.png)
+
+* Eğitim seti n kadar alt kümeye ayrılır ve bu kümelerden biri haricinde diğer tüm kümeler eğitim için kullanılır. Seçilen küme test için kullanılır, bu şekilde seçilen küme değiştirilerek devam eder.
+En sonayrılan test veri setiyle model test edilir.
+
+* Veri seti boyutu büyüdükçe bu doğrulamanın gerçekleşmesi imkansızlaşır.
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Bootstrap
+
+
 
 
