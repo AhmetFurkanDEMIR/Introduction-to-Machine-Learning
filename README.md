@@ -291,3 +291,14 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 
 * Bir model üretirken, yeni değişken üretmek, hiper parametreleri optimizie etmek gibi modelin tahmin başarısını artıracak işlemler yaparız. Bu işlemlerin artmasıyla eğitim seti hatamız düşer, model daha karmaşıklaşır.
 
+* Model karmaşıklığı artıkça, eğitim setimizdeki hata düştükçe, başarımız artıkça bir noktadan sonra test setindeki hata artmaya başlar, test setine negatif olarak yansır, model veri setini ezberlemeye çalışır.
+
+
+# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Model Tunning (Model Optimizasyonu)
+
+* Parametre, Hiperparametre, Parametre tuning, Model tuning.
+* Modelin tahmin performansını artırmak.
+
+
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Parametreleri
+
