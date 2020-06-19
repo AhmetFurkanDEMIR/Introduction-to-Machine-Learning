@@ -217,4 +217,8 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 √((151000 - 150000)² / örnek sayısı) olarak düşünebiliriz.
 
 
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) MAE (Ortalama Mutlak Hata)
+
+
+
 
