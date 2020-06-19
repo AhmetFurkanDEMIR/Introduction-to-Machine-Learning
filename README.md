@@ -262,5 +262,25 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 * Test hatası -> kurulan modeli test etmek için kullandığımız veri seti için oluşan hatadır.
 
 
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Esneklik
+
+* Verinin fonksiyonel yapısının uygun bir şekilde yorumlanmasıdır. Ortalama test hatasına göre belirlenir.
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Yanlılık
+
+* Gerçek değerler ile tahmin edilen değerler arasındaki fark.
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Varyans
+
+* Değişkenlik demektir, modelin esnekliğidir. Oldukça detaylı öğrenmek demektir.
+
+
+![Screenshot_2020-06-19_14-58-39](https://user-images.githubusercontent.com/54184905/85130382-8443b380-b23d-11ea-99e4-b9b651a9429d.png)
+
+* İlk grafikte underfitting yani yüksek yanlılık var. (Fark çok, Eksik öğrenme var)
+* İkinci grafikte doğru bir model kurulmuştur. Düşük yanlılık ve düşük varyans var.
+* Üçüncü grafikte ise Overfitting yani yüksek varyans vardır. Fonksiyon verisetini çok iyi öğrenmiştir, ezber yapmıştır.
 
 
