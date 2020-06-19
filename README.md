@@ -61,6 +61,15 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Seçimi
 
+![1*ioZ200iYyX-QJfOLs17gow](https://user-images.githubusercontent.com/54184905/85116427-fd371100-b225-11ea-9a5f-ba867a9babf3.jpeg)
+
 * Oluşabilecek değişken kombinasyonları ile oluşturulan modeller arasından en iyi modelin seçilmesi.
+
+* ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model neye göre seçilir ? : 
+
+* Regresyon için açıklanabilirlik oran ve RMSE türevi bir değer.
+
+* Sınıflandırma için doğru sınıflandırma oranı türevi bir değer
+
 
 
