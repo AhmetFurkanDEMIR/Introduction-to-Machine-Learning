@@ -75,3 +75,7 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Aşırı Öğrenme (Overfitting)
 
 * Algoritmanın veri setini ezberlemesi, yeni veriler üzerinden tahmin yapılmak istendiğinde modelin başarısız olması.
+
+
+![20200619_121923](https://user-images.githubusercontent.com/54184905/85117772-0f19b380-b228-11ea-9bf6-f1825e217931.jpg)
+![Overfitted_Data](https://user-images.githubusercontent.com/54184905/85117779-10e37700-b228-11ea-8fcd-a6f5c86261a6.png)
