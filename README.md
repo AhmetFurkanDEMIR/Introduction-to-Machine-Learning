@@ -7,18 +7,6 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 ![20200619_121923](https://user-images.githubusercontent.com/54184905/85117772-0f19b380-b228-11ea-9bf6-f1825e217931.jpg)
 
 * Uygulamaları : Makine öğreniminin başlıca uygulamaları makine algılaması, bilgisayarlı görme, doğal dil işleme, sözdizimsel örüntü tanıma, arama motorları, tıbbi tanı, biyoinformatik, beyin-makine arayüzleri ve kiminformatik, kredi kartı dolandırıcılığı denetimi, borsa çözümlemesi, DNA dizilerinin sınıflandırılması, konuşma ve elyazısı tanıma, bilgisayarlı görmede nesne tanıma, oyun oynama, yazılım mühendisliği, uyarlamalı web siteleri ve robot gezisidir. 
-
-* Öğrenme Yaklaşımları : 
-    
-    Gözetimli öğrenme - Girdileri hedef çıktılara eşleyen bir işlev üretir.
-    
-    Gözetimsiz öğrenme - Bir girdi kümesi modeller.
-    
-    Pekiştirmeli öğrenme - Dünya algısına dayalı bir öğrenme biçimi. Her eylem ortamda bir etki oluşturmakta ve ortam, öğrenme
-    algoritmasına yol gösteren ödüller biçiminde dönütler vermektedir.
-    
-    Yarı gözetimli öğrenme - Uygun işlev ya da sınıflandırıcılar oluşturmak için etiketli ve etiketsiz örnekleri birlikte ele
-    alır.
     
 ![0*NgXCHXv1L4xm7e_L](https://user-images.githubusercontent.com/54184905/85115787-e80db280-b224-11ea-8896-bcd4aea62e56.png)
 
@@ -44,6 +32,10 @@ Bağımlı değişken ve bağımlı değişkeni meydana getiren bağımsız değ
 
 Makine öğrenmesinin bu kategorisinin amacı veriyi görselleştirmek, verileri sıkıştırmak, verilerdeki gürültüyü azaltmak ya da eldeki veriler arasındaki korelasyonu anlamak için girdilerden herhangi bir bilinen olmaksızın amaca uygun dönüşümleri bulmaktır.
 Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüdür.(Veri var, Etiket yok) Birbirlerine benzer özellikler ile bir araya getirilir.
+
+![Object_detection_Blog_Image_Q3_19](https://user-images.githubusercontent.com/54184905/85119756-eb0ba180-b22a-11ea-88a3-40d8b1b0ce43.jpg)
+![clustering1](https://user-images.githubusercontent.com/54184905/85119762-ee069200-b22a-11ea-936b-6406c483b46e.jpg)
+
 
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Temel Kavramlar
 
