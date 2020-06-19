@@ -54,16 +54,9 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 ![440px-Pekistirmeli-ogrenme-diyagram svg](https://user-images.githubusercontent.com/54184905/85122373-1abca880-b22f-11ea-8aa2-6e3e1a02df39.png)
 
 
-# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Makine Öğrenme Modellerinin Değerlendirilmesi ?
-
-* Makine öğrenmesinde amaç, modellerin GENELLEŞTİRMESİDİR. Hiç görmediği verilerde başarılı olmalıdır. Önündeki en büyük engel de aşırı uydurmadır.
-
-* Elimzideki veri setinin bir kısmını modeli eğitirken kullanırız diğer kısmını ise eğitilen modeli test ederken kullanırız.
-
-![Screenshot_2020-06-19_12-00-26](https://user-images.githubusercontent.com/54184905/85115581-906f4700-b224-11ea-870d-79f0492e43e3.png)
-
-
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Temel Kavramlar
+
+* Bu başlık altında ise Makine Öğrenmesi için gerekli olan temel kavramları göreceğiz.
 
 
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Bağımlı Değişken - Bağımsız Değişken
@@ -85,6 +78,14 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 ![Screenshot_2020-06-19_12-05-00](https://user-images.githubusercontent.com/54184905/85115962-3a4ed380-b225-11ea-8d1c-8fc203d77c2a.png)
 
 * Amaç : En az değişkenle en fazla açıklanabilirliği yakalamak
+
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Makine Öğrenme Modellerinin Değerlendirilmesi (Test-Train) ?
+
+* Makine öğrenmesinde amaç, modellerin GENELLEŞTİRMESİDİR. Hiç görmediği verilerde başarılı olmalıdır. Önündeki en büyük engel de aşırı uydurmadır.
+
+* Elimzideki veri setinin bir kısmını modeli eğitirken kullanırız diğer kısmını ise eğitilen modeli test ederken kullanırız.
+
+![Screenshot_2020-06-19_12-00-26](https://user-images.githubusercontent.com/54184905/85115581-906f4700-b224-11ea-870d-79f0492e43e3.png)
 
 
 # ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Seçimi
