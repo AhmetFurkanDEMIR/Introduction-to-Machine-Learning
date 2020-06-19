@@ -11,7 +11,6 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 ![0*NgXCHXv1L4xm7e_L](https://user-images.githubusercontent.com/54184905/85115787-e80db280-b224-11ea-8896-bcd4aea62e56.png)
 
 
-
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Makine Öğrenmesinin Dört Kategorisi
 
 
@@ -131,12 +130,13 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 ![Screenshot_2020-06-19_13-35-21](https://user-images.githubusercontent.com/54184905/85124167-1fcf2700-b232-11ea-9fa6-9c9739a716c9.png)
 
 
-# Makine Öğrenmesi - Matematik - İstatistik - Olasılık
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Makine Öğrenmesi - Matematik - İstatistik - Olasılık
 
 * Makine öğrenmesi, matematikten istatistiğe geçiş ve matematik istatistik optimizasyon arasında bir yerde konumlanmaktadır.
 
 * Matematikte kesinlik vardır. İstatistik ve olasılıkta kesinlik yoktur.
 
+![20200619_134240](https://user-images.githubusercontent.com/54184905/85124694-0084c980-b233-11ea-9be0-9f01abef45e0.jpg)
 
 
-
+# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Model Doğrulama Yöntemleri (Model Validation)
