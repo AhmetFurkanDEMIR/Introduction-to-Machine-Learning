@@ -131,6 +131,12 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 ![Screenshot_2020-06-19_13-35-21](https://user-images.githubusercontent.com/54184905/85124167-1fcf2700-b232-11ea-9fa6-9c9739a716c9.png)
 
 
+# Makine Öğrenmesi - Matematik - İstatistik - Olasılık
+
+* Makine öğrenmesi, matematikten istatistiğe geçiş ve matematik istatistik optimizasyon arasında bir yerde konumlanmaktadır.
+
+* Matematikte kesinlik vardır. İstatistik ve olasılıkta kesinlik yoktur.
+
 
 
 
