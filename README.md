@@ -287,4 +287,7 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Eğitim Hatası İle Test Hatasının Karşılaştırılması
 
+![Screenshot_2020-06-19_15-09-38](https://user-images.githubusercontent.com/54184905/85131183-fcf73f80-b23e-11ea-8255-a86d9f3ec31c.png)
+
+* Bir model üretirken, yeni değişken üretmek, hiper parametreleri optimizie etmek gibi modelin tahmin başarısını artıracak işlemler yaparız. Bu işlemlerin artmasıyla eğitim seti hatamız düşer, model daha karmaşıklaşır.
 
