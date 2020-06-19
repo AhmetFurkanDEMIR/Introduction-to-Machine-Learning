@@ -229,3 +229,24 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 
 (|151000 - 150000| / örnek sayısı) olarak düşünebiliriz.
 
+
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Sınıflandırma Modelleri İçin Başarı Değerlendirme
+
+![Screenshot_2020-06-19_14-45-49](https://user-images.githubusercontent.com/54184905/85129393-af2d0800-b23b-11ea-9d40-fd8f193e1baf.png)
+
+* a : True Pozitif (TP)
+* d : True Negatif (TN)
+* c : False Pozitif (FP)
+* b : False Negatif (FN)
+
+* Modeldeki doğruluk için : (TP + TN) / Hepsi
+* Modeldeki hata oranı için : (FN + FP) / Hepsi
+* Modeldeki kesinlik için : TP / (TP + FP)
+* Modeldeki anma için : TP / (TP + FN)
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) ROC Eğrisi
+
+
+
+
