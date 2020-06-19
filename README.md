@@ -145,6 +145,7 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 
 * Model kurmak : Bağımlı değişken ile bağımsız değişkenler arasındaki ilişkiyi modellemek demektir.
 
+
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yöntemler
 
 
@@ -179,5 +180,18 @@ En sonayrılan test veri setiyle model test edilir.
 
 * Yeniden örnek oluşturacak şekilde çalışır, orjinal veri seti içersinden seçilen örneklerle bootstrap örnekler oluşturulur.
 x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şekilde veri seti içerisinden veri türetmek şeklinde kullanılır. 
+
+
+# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Model Başarı Değerlendirme Yöntemleri
+
+* Modelin tahmin başarısının değerlendirilmesi. Ortalama hata hesaplamaya çalışılır.
+
+
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yöntemler
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) MSE (Hata Kareleri Ortalaması)
+
+
 
 
