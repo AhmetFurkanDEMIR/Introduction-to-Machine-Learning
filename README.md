@@ -49,3 +49,7 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 ![Screenshot_2020-06-19_12-00-26](https://user-images.githubusercontent.com/54184905/85115581-906f4700-b224-11ea-870d-79f0492e43e3.png)
 
 
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Değişken Seçimi (Variable Selection)
+
+
+
