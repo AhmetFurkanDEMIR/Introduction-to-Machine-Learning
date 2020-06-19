@@ -219,6 +219,13 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) MAE (Ortalama Mutlak Hata)
 
+![Screenshot_2020-06-19_14-39-51](https://user-images.githubusercontent.com/54184905/85128882-d2a38300-b23a-11ea-85a7-99c69693fd44.png)
 
+* n = Gözlem sayısı
+* yi = Gerçek değerler (Etiket)
+* y' = Tahmin edilen değerler
 
+* Bir ev fiyatlandırma problemi düşünelim, model evi 150000 tl olarak tahmin etti ama evin gerçek değeri 151000 tl.
+
+(|151000 - 150000| / örnek sayısı) olarak düşünebiliriz.
 
