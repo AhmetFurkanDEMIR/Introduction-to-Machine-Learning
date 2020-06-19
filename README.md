@@ -31,6 +31,21 @@ Bağımlı değişken ve bağımlı değişkeni meydana getiren bağımsız değ
 * Resim Bölütleme : Verilen bir resimde nesneye özel görüntü noktası seviyesinde maske oluşturmak.
 
 
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Sınıflandırma (Classification) Yöntemleri
+
+* Destek Vektör Makineleri
+* Ayrıştırma Analizi
+* Naive Bayes 
+* En Yakın Komşu
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Bağlanım (Regression) Yöntemleri
+
+* Lineer bağlanım
+* Karar ağaçları
+* Yapay sinir ağları
+
+
 ## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Denetimsiz Öğrenme :
 
 Makine öğrenmesinin bu kategorisinin amacı veriyi görselleştirmek, verileri sıkıştırmak, verilerdeki gürültüyü azaltmak ya da eldeki veriler arasındaki korelasyonu anlamak için girdilerden herhangi bir bilinen olmaksızın amaca uygun dönüşümleri bulmaktır.
