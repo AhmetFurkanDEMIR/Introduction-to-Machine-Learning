@@ -199,6 +199,7 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 * y' = Tahmin edilen değerler
 
 * Bir ev fiyatlandırma problemi düşünelim, model evi 150000 tl olarak tahmin etti ama evin gerçek değeri 151000 tl.
+
 ((151000 - 150000)² / örnek sayısı) olarak düşünebiliriz.
 
 
