@@ -59,3 +59,8 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 * Amaç : En az değişkenle en fazla açıklanabilirliği yakalamak
 
 
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Seçimi
+
+* Oluşabilecek değişken kombinasyonları ile oluşturulan modeller arasından en iyi modelin seçilmesi.
+
+
