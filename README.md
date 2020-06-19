@@ -94,7 +94,7 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 
 * Oluşabilecek değişken kombinasyonları ile oluşturulan modeller arasından en iyi modelin seçilmesi.
 
-* ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Model neye göre seçilir ? : 
+* Model neye göre seçilir ? : 
 
 * Regresyon için açıklanabilirlik oran ve RMSE türevi bir değer.
 
@@ -262,17 +262,17 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 * Test hatası -> kurulan modeli test etmek için kullandığımız veri seti için oluşan hatadır.
 
 
-### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Esneklik
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Esneklik
 
 * Verinin fonksiyonel yapısının uygun bir şekilde yorumlanmasıdır. Ortalama test hatasına göre belirlenir.
 
 
-### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Yanlılık
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Yanlılık
 
 * Gerçek değerler ile tahmin edilen değerler arasındaki fark.
 
 
-### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Varyans
+## ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Varyans
 
 * Değişkenlik demektir, modelin esnekliğidir. Oldukça detaylı öğrenmek demektir.
 
