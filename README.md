@@ -35,4 +35,7 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 
 * Regresyon : Bağımlı değişken, sayısal/sürekli bir değişken ise bu bir regresyon problemidir.(Ev tahmin problemi(Ev fiyati 150000 TL))
 
-* Sınıflandırma Problemi : Bağımlı değişken kategorik bir değiken ise bu bir sınıflandırma problemidir.(Hastanın yaşayıp yaşayamaması(0,1))  
+* Sınıflandırma Problemi : Bağımlı değişken kategorik bir değiken ise bu bir sınıflandırma problemidir.(Hastanın yaşayıp yaşayamaması(0,1)) 
+
+
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Model Eğitmek: Test - Train
