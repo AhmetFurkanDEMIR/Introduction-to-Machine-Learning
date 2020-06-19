@@ -79,7 +79,8 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 
 * Amaç : En az değişkenle en fazla açıklanabilirliği yakalamak
 
-# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Makine Öğrenme Modellerinin Değerlendirilmesi (Test-Train) ?
+
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Makine Öğrenme Modellerinin Değerlendirilmesi (Test-Train)
 
 * Makine öğrenmesinde amaç, modellerin GENELLEŞTİRMESİDİR. Hiç görmediği verilerde başarılı olmalıdır. Önündeki en büyük engel de aşırı uydurmadır.
 
