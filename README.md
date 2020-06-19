@@ -118,3 +118,11 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 * Stokastik Modeller : Olasılıksal modeller bizim kullanacağımız modeller.
 
 ![Screenshot_2020-06-19_13-30-49](https://user-images.githubusercontent.com/54184905/85123703-66705180-b231-11ea-92f0-3f9402d1f0dc.png)
+
+
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Doğrusal Modeller - Doğrusal Olmayan Modeller
+
+* Doğrusal modeller : Doğru ile ifade edilebilmeli.
+
+* Doğrusal olmayan modeller : Eğri aracılığıyla, ağaca dayalı yöntemler veya yöntemler ile değişkenler arasındaki ilişkilerin modellenmeye çalışmak. 
+
