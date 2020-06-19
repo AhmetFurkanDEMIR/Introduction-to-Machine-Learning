@@ -149,3 +149,11 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 
 
 ### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Holdout Yöntemi (Sınama Testi)
+
+![Screenshot_2020-06-19_12-00-26](https://user-images.githubusercontent.com/54184905/85115581-906f4700-b224-11ea-870d-79f0492e43e3.png)
+
+* Belli bir orana göre veri seti parçalanır. Bir kısmı eğitimde kullanılır bir kısmı testte kullanılır. 
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) K - Katlı Çapraz Doğrulama (K Fold Cross Validation)
+
