@@ -255,7 +255,6 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 
 # ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Yalınlık - Varyans Değiş Tokuşu (Bias - Variance Tradeoff)
 
-
 * Modelin tahmin başarısının değerlendirilmesi
 
 * Eğitim hatası -> modeli kurmak için kullandığımız veri seti üzerinden elde ettiğimiz hata.
@@ -284,5 +283,8 @@ x kadar bootstrap veri ile model kurulur ve test edilir. Yerine koymalı bir şe
 * İlk grafikte Underfitting yani yüksek yanlılık var. (Fark çok, Eksik öğrenme var)
 * İkinci grafikte doğru bir model kurulmuştur. Düşük yanlılık ve düşük varyans var.
 * Üçüncü grafikte ise Overfitting yani yüksek varyans vardır. Fonksiyon verisetini çok iyi öğrenmiştir, ezber yapmıştır.
+
+
+# ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Eğitim Hatası İle Test Hatasının Karşılaştırılması
 
 
