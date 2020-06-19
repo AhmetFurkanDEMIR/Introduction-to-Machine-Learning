@@ -160,4 +160,10 @@ Makine öğrenmesini bu kategorisi uzun süre dikkate alınmamış ancak Google 
 ![Screenshot_2020-06-19_14-13-03](https://user-images.githubusercontent.com/54184905/85126914-198f7980-b237-11ea-9dd4-1a39158eb91a.png)
 
 * Veri seti K adet parçaya ayrılır, belirlenen alt kümelerden birisi dışarıda bıraklır. Diğer kümeler eğitim verisi olur ve seçilen küme test verisi olur. Aynı işlem diğer kümeler içinde tekrar eder, bu işlem sonucunda elde edilen hataların ortlaması alındığında bu doğrulama hatası olur.
-En son ayrılan test verisiyle tekrar ederiz.
+En son ayrılan test verisiyle test ederiz.
+
+
+### ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) Leave One Out
+
+
+
