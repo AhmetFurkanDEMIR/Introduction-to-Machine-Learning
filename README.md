@@ -4,6 +4,8 @@
 
 Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gibi veri türlerine dayalı öğrenimini olanaklı kılan algoritmaların tasarım ve geliştirme süreçlerini konu edinen bir bilim dalıdır. Makine öğrenimi araştırmalarının odaklandığı konu bilgisayarlara karmaşık örüntüleri algılama ve veriye dayalı akılcı kararlar verebilme becerisi kazandırmaktır. Bu, makine öğreniminin istatistik, olasılık kuramı, veri madenciliği, örüntü tanıma, yapay zekâ, uyarlamalı denetim ve kuramsal bilgisayar bilimi gibi alanlarla yakından ilintili olduğunu göstermektedir.
 
+![20200619_121923](https://user-images.githubusercontent.com/54184905/85117772-0f19b380-b228-11ea-9bf6-f1825e217931.jpg)
+
 * Uygulamaları : Makine öğreniminin başlıca uygulamaları makine algılaması, bilgisayarlı görme, doğal dil işleme, sözdizimsel örüntü tanıma, arama motorları, tıbbi tanı, biyoinformatik, beyin-makine arayüzleri ve kiminformatik, kredi kartı dolandırıcılığı denetimi, borsa çözümlemesi, DNA dizilerinin sınıflandırılması, konuşma ve elyazısı tanıma, bilgisayarlı görmede nesne tanıma, oyun oynama, yazılım mühendisliği, uyarlamalı web siteleri ve robot gezisidir. 
 
 * Öğrenme Yaklaşımları : 
@@ -76,6 +78,4 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 
 * Algoritmanın veri setini ezberlemesi, yeni veriler üzerinden tahmin yapılmak istendiğinde modelin başarısız olması.
 
-
-![20200619_121923](https://user-images.githubusercontent.com/54184905/85117772-0f19b380-b228-11ea-9bf6-f1825e217931.jpg)
 ![Overfitted_Data](https://user-images.githubusercontent.com/54184905/85117779-10e37700-b228-11ea-8fcd-a6f5c86261a6.png)
