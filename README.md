@@ -24,3 +24,8 @@ Makine öğrenimi, bilgisayarların algılayıcı verisi ya da veritabanları gi
 * Bağımsız Değişken : Bağımlı değişkenlerin belirlenmesinde öncü olur. KM, Hasar durumu, Marka, Model gibi.
 
 
+# ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Gözetimli - Gözetimsiz Öğrenme
+
+* Gözetimli Öğrenme : Bağımlı değişken ve bağımlı değişkeni meydana getiren bağımsız değişkenler bir aradaysa, bu duruma gözetimli öğrenme denir.(Etiket-Veri)
+
+* Gözetimsiz Öğrenme : Bağımlı değişkenin çalışmanının içinde olmadığı öğrenme türüdür.(Veri var, Etiket yok) Birbirlerine benzer özellikler ile bir araya getirilir.
